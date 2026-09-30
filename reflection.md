@@ -2,6 +2,9 @@
 
 ## Evaluation Report & Failure Analysis
 
+**Học viên:** Nguyễn Nam Khánh  
+**MSSV:** 2A202602568  
+
 Dùng kết quả thật trong `artifacts/benchmark_results.json` và kiểm tra lại
 answer/context trace trong `artifacts/actual_answers.json` trước khi kết luận.
 

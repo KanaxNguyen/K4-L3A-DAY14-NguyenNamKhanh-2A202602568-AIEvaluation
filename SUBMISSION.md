@@ -16,7 +16,13 @@ K4-L3A-DAY14-<HoVaTen>-<MSSV>-AIEvaluation
 - `<HoVaTen>`: Họ và tên viết liền không dấu (PascalCase).
 - `<MSSV>`: Mã số sinh viên chính xác.
 
-**Ví dụ:**
+### Thông tin học viên
+- **Họ và tên:** Nguyễn Nam Khánh
+- **Mã số sinh viên (MSSV):** 2A202602568
+- **Tên Repository:** `K4-L3A-DAY14-NguyenNamKhanh-2A202602568-AIEvaluation`
+- **GitHub URL:** https://github.com/KanaxNguyen/K4-L3A-DAY14-NguyenNamKhanh-2A202602568-AIEvaluation
+
+**Ví dụ quy chuẩn:**
 ```text
 K4-L3A-DAY14-NguyenVanAn-L3A202600280-AIEvaluation
 ```
